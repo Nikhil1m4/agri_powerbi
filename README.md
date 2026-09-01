@@ -29,5 +29,10 @@ Power BI Desktop, Power Query (M), DAX, Excel (intermediate data prep)
 
 ## License / Usage
 
-This project is shared **for educational and portfolio purposes only**. The underlying ICRISAT data belongs to its original publisher (ICRISAT) — please refer to their terms for any reuse of the raw data itself. The dashboard, queries, and code in this project may be freely referenced for learning purposes; no warranty of accuracy or fitness for any particular purpose is provided.<img width="1192" height="667" alt="Overview" src="https://github.com/user-attachments/assets/fb86fd72-f8bf-4f62-b0b3-c2c32df4c4ee" />
+This project is shared **for educational and portfolio purposes only**. The underlying ICRISAT data belongs to its original publisher (ICRISAT) — please refer to their terms for any reuse of the raw data itself. The dashboard, queries, and code in this project may be freely referenced for learning purposes; no warranty of accuracy or fitness for any particular purpose is provided.
+## Overview
+<img width="1192" height="667" alt="Overview" src="https://github.com/user-attachments/assets/fb86fd72-f8bf-4f62-b0b3-c2c32df4c4ee" />
+## State and District Level Drilldown
+<img width="1197" height="668" alt="State and District Drilldown" src="https://github.com/user-attachments/assets/3da9d4a0-da61-49f1-8cdf-86b635ed4c56" />
+
 
