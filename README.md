@@ -1,6 +1,6 @@
 # Indian Crop Production Analysis Dashboard
 
-An interactive Power BI dashboard exploring crop production, cultivated area, and yield trends across Indian states and districts, built on the ICRISAT District Level Database.
+An interactive Power-BI dashboard exploring crop production, cultivated area, and yield trends across Indian states and districts, built on the ICRISAT District Level Database.
 
 ## Dataset
 
